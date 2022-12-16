@@ -1,0 +1,6 @@
+ CONCLUSIONES 
+
+Se realiza una prueba manual para asegurar  que el ambiente QA, este funcionando.
+Se observo que despues que la seccion del usuario logueado expira en muy poco tiempo,no deberia expirarse en tan poco tiempo debido que es una pagina de compra, tambien se verifica que cuando se llena el campo de informacion permite todo tipo de caracteres sean letras numeros o caracteres especiales
+
+Se recomienda las mejoras para que pueda ser un pagina optima 
